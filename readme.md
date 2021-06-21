@@ -1,3 +1,5 @@
 # Nibin"s Notes
-# This is an h1 header (largest)
-###### This is an H6 header (smallest)
+## Summary
+This repository contains all of the notes taken by [Nibin](https://github.com/NibinCodes) for the lighthouse Labs Web development Bootcamp.
+* Week 1
+ * Day1
